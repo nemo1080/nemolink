@@ -3,8 +3,8 @@
   "code": 0,
   "data": {
     "api": ["https://api.niinichat.online","https://newapi.niinichat.online"],
-    "image": ["https://image.niinichat.online"]
-    "h5": ["https://m.niinichat.online"]
+    "image": ["https://image.niinichat.online"],
+    "h5": ["https://m.niinichat.online"],
     "www": ["https://niinichat.online"]
   },
   "msg": ""
