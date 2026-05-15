@@ -10,7 +10,7 @@
       "https://api-us-1.shijieshangzuihaodeaichat.online"
     ],
     "apiMap": {
-      "香港负载均衡": "https://api-hk.shijieshangzuihaodeaichat.online",
+      "直连负载均衡": "https://api.shijieshangzuihaodeaichat.online",
       "香港节点1": "https://api-hk-1.shijieshangzuihaodeaichat.online",
       "香港节点2": "https://api-hk-2.shijieshangzuihaodeaichat.online",
       "日本节点": "https://api-jp-1.shijieshangzuihaodeaichat.online",
