@@ -3,18 +3,15 @@
   "code": 0,
   "data": {
     "api": [
-      "https://api-hk.shijieshangzuihaodeaichat.online",
-      "https://api-hk-1.shijieshangzuihaodeaichat.online",
-      "https://api-hk-2.shijieshangzuihaodeaichat.online",
-      "https://api-jp-1.shijieshangzuihaodeaichat.online",
-      "https://api-us-1.shijieshangzuihaodeaichat.online"
+      "https://api-cluster.shijieshangzuihaodeaichat.online"
     ],
     "apiMap": {
-      "直连负载均衡": "https://api.shijieshangzuihaodeaichat.online",
+      "直连负载均衡": "https://api-cluster.shijieshangzuihaodeaichat.online",
       "香港节点1": "https://api-hk-1.shijieshangzuihaodeaichat.online",
       "香港节点2": "https://api-hk-2.shijieshangzuihaodeaichat.online",
-      "日本节点": "https://api-jp-1.shijieshangzuihaodeaichat.online",
-      "美国节点": "https://api-us-1.shijieshangzuihaodeaichat.online"
+      "日本节点": "https://api-jp.shijieshangzuihaodeaichat.online",
+      "新加坡节点": "https://api-sg.shijieshangzuihaodeaichat.online",
+      "美国节点": "https://api-us.shijieshangzuihaodeaichat.online"
     },
     "image": [
       "https://image.niinichat.online"
