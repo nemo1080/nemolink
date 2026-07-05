@@ -7,6 +7,7 @@
     ],
     "apiMap": {
       "直连负载均衡": "https://api-cluster.shijieshangzuihaodeaichat.online",
+      "香港节点": "https://api-hk.shijieshangzuihaodeaichat.online",
       "新加坡节点": "https://api-sg.shijieshangzuihaodeaichat.online",
       "日本节点": "https://api-jp.shijieshangzuihaodeaichat.online",
       "美国节点": "https://api-us.shijieshangzuihaodeaichat.online"
