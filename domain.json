@@ -3,11 +3,11 @@
   "code": 0,
   "data": {
     "api": [
-      "https://api-cluster.shijieshangzuihaodeaichat.online"
+      "https://api-aws.shijieshangzuihaodeaichat.online"
     ],
     "apiMap": {
-      "直连负载均衡": "https://api-cluster.shijieshangzuihaodeaichat.online",
-      "香港节点": "https://api-hk.shijieshangzuihaodeaichat.online",
+      "直连[推荐]": "https://api-aws.shijieshangzuihaodeaichat.online",
+      "香港节点": "https://api-tc.shijieshangzuihaodeaichat.online",
       "新加坡节点": "https://api-sg.shijieshangzuihaodeaichat.online",
       "日本节点": "https://api-jp.shijieshangzuihaodeaichat.online",
       "美国节点": "https://api-us.shijieshangzuihaodeaichat.online"
