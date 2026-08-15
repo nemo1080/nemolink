@@ -2,8 +2,24 @@
   "biz": null,
   "code": 0,
   "data": {
-    "api": ["https://api.niinichat.online","https://newapi.niinichat.online"],
-    "image": ["https://image.niinichat.online"]
+    "api": [
+      "https://z.changjinglu.club"
+    ],
+    "apiMap": {
+      "直连": "https://z.changjinglu.club",
+      "新加坡节点": "https://api-sg.shijieshangzuihaodeaichat.online",
+      "日本节点": "https://api-jp.shijieshangzuihaodeaichat.online",
+      "美国节点": "https://api-us.shijieshangzuihaodeaichat.online"
+    },
+    "image": [
+      "https://image.niinichat.online"
+    ],
+    "h5": [
+      "https://m.niinichat.online"
+    ],
+    "www": [
+      "https://niinichat.online"
+    ]
   },
   "msg": ""
 }
