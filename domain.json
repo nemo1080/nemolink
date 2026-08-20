@@ -2,11 +2,8 @@
   "biz": null,
   "code": 0,
   "data": {
-    "api": [
-      "https://api.changjinglu.club"
-    ],
     "apiMap": {
-      "香港[推荐]": "https://api.changjinglu.club",
+      "香港[推荐]": "https://api-hk.changjinglu.club",
       "直连[备用]": "https://z.changjinglu.club",
       "新加坡节点": "https://api-sg.shijieshangzuihaodeaichat.online",
       "日本节点": "https://api-jp.shijieshangzuihaodeaichat.online",
