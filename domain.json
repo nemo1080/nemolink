@@ -3,11 +3,11 @@
   "code": 0,
   "data": {
     "apiMap": {
-      "直连[稳定，能连上最好选这个]": "https://z.changjinglu.club",
-      "香港[低延迟，偶尔连不上]": "https://api-hk.changjinglu.club",
-      "新加坡[备选，尽量不用]": "https://api-sg.shijieshangzuihaodeaichat.online",
-      "日本[备选，尽量不用]": "https://api-jp.shijieshangzuihaodeaichat.online",
-      "美国[备选，尽量不用]": "https://api-us.shijieshangzuihaodeaichat.online"
+      "直连 [稳定，能连上最好选这个]": "https://z.changjinglu.club",
+      "香港 [低延迟，偶尔连不上]": "https://api-hk.changjinglu.club",
+      "新加坡 [备选，尽量不用]": "https://api-sg.shijieshangzuihaodeaichat.online",
+      "日本 [备选，尽量不用]": "https://api-jp.shijieshangzuihaodeaichat.online",
+      "美国 [备选，尽量不用]": "https://api-us.shijieshangzuihaodeaichat.online"
     },
     "image": [
       "https://image.niinichat.online"
