@@ -4,13 +4,13 @@
   "data": {
     "apiMap": {
       "直连 [推荐]": "https://z.changjinglu.club",
-      "香港 [备选]": "https://api-hk-0.changjinglu.club",
+      "香港 [备选]": "https://api-hk.changjinglu.club",
       "新加坡 [备选]": "https://api-sg.changjinglu.club",
       "日本 [备选]": "https://api-jp.changjinglu.club",
       "美国 [备选]": "https://api-us.changjinglu.club"
     },
     "image": [
-      "https://image.niinichat.online"
+      "https://image.changjinglu.club"
     ],
     "h5": [
       "https://m.niinichat.online"
